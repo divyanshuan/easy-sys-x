@@ -1,0 +1,11 @@
+{
+  "name": "easy-sys-x",
+  "version": "1.0.0",
+  "description": "This npm library is a collection of vairus usable fuctions and utlities for Systems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Divyanshu Verma",
+  "license": "ISC"
+}
